@@ -1,15 +1,17 @@
 # README
 
-Projet pour l'app rails du blog, avec les models, les relations
+Projet: Base de données Blog
 
-Projet:
+# Explications 
+Création d'une base donndée pour un blog, dans lequel ses utilisateurs pourront créer des articles, les commenter et leur attribuer une catégorie.
+De ce fait la BDD est composée de quatre tables :
+* User
+* Article 
+* Catégorie
+* Commentaires
 
-* Ruby version 2.5.1
+De plus, le contenu de cette BDD a été crée à  l'aide de 'Faker' un gem permettant de créer des faux users etc..
 
-* Rails version 5.2.0
+# Résulat
+Le programme affiche la BDD et ses déffiréntes relations.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
