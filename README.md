@@ -1,9 +1,9 @@
 # README
 
-Projet: Base de données Blog
+#Projet: Base de données Blog
 
-# Explications 
-Création d'une base donndée pour un blog, dans lequel ses utilisateurs pourront créer des articles, les commenter et leur attribuer une catégorie.
+# # Explications 
+Création d'une base donnée pour un blog, dans lequel ses utilisateurs pourront créer des articles, les commenter et leur attribuer une catégorie.
 De ce fait la BDD est composée de quatre tables :
 * User
 * Article 
