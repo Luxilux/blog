@@ -1,3 +1,4 @@
 class Categorie < ApplicationRecord
-  has_many :articles
+  # belongs_to :user
+  belongs_to :article
 end
