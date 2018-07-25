@@ -1,7 +1,8 @@
 # README
 <a href = https://github.com/Luxilux/blog/blob/master/README.md#explications> Explications<a/> <br>
 <a href = https://github.com/Luxilux/blog/blob/master/README.md#r%C3%A9sulat> Résultats<a/>
-#Projet: Base de données Blog
+
+# Projet: Base de données Blog
 
 # Explications 
 Création d'une base donnée pour un blog, dans lequel ses utilisateurs pourront créer des articles, les commenter et leur attribuer une catégorie.
